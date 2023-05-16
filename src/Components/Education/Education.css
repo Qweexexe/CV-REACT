@@ -1,0 +1,23 @@
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*flex-direction: column;*/
+    /*background: yellow;*/
+}
+
+.button{
+    margin: 0 45%;
+    border: 2px solid white;
+    padding: 25px;
+    background: none;
+    color: white;
+    border-radius: 20px;
+}
+
+.footer{
+    width: 100%;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}

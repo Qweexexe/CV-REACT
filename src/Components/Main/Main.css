@@ -1,0 +1,16 @@
+root{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    display: flex;
+    align-items: center;
+}
+
+
+
+h3{
+    color: white;
+    text-align: center;
+}
